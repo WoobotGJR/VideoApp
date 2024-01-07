@@ -18,7 +18,7 @@
 
 <a name="project-installation"><h2>2. Эксплуатация проекта</h2></a>
 
-1. git clone https://github.com/WoobotGJR/movies-explorer-frontend - клонировать репозиторий
+1. git clone https://github.com/WoobotGJR/VideoApp - клонировать репозиторий
 2. npm i - установить зависимости (dependencies)
 3. зарегистрироваться на сайте https://rapidapi.com/hub
 4. перейти по ссылке https://rapidapi.com/ytdlfree/api/youtube-v31/
